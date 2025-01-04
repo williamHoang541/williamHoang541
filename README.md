@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Le Huy Hoang</h1> 
 
-<h3Embrace the journey of learning, for every step takes us closer to our goals.
-<h4 align="center">Aspiring to excel in backend development and database management.</h4>
-<h5 align="center">Passionate about designing and developing scalable, efficient systems while continuously learning and applying new technologies.</h5>
-<h6 align="center">Learn what you will do and do what you have learned</h6>
+<h3 align="center">Aspiring to excel in backend development and database management.</h3>
+<h4 align="center">Passionate about designing and developing scalable, efficient systems while continuously learning and applying new technologies.</h4>
+<h4 align="center">Learn what you will do and do what you have learned</h4>
 
+---
 
 - 🌟 I'm currently working on exciting personal projects.
 - 🌱 I'm currently learning **Full-Stack Development**, **Backend APIs**, and **Database Management**.
