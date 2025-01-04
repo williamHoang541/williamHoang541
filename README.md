@@ -35,8 +35,9 @@
 ---
 
 <h3 align="center">My Stats:</h3>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=williamHoang541&show_icons=true&theme=radical" alt="GitHub Stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamHoang541&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamHoang541&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamHoang541&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+</a>
