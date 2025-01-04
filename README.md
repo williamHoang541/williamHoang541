@@ -34,7 +34,9 @@
 
 ---
 
-## My Stats:
-
-[![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williamHoang541&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=williamHoang541&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">My Stats:</h3>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=williamHoang541&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamHoang541&layout=compact&theme=radical" alt="Top Languages" />
+</p>
