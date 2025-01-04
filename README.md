@@ -15,17 +15,16 @@
 ---
 
 <h3 align="center">Deployed Projects:</h3>
-🌐 Check out some of my deployed projects:  
-<p align="center">[**SAP eLearning API**](https://swdsapelearningapi.azurewebsites.net/index.html)</p>
-<p align="center">[**Unity Hands project "in update"**](https://unityhandsapi.azurewebsites.net/index.html)</p>
+<p align="center"><a href="https://swdsapelearningapi.azurewebsites.net/index.html" target="_blank"><strong>SAP eLearning API</strong></a></p>
+<p align="center"><a href="https://unityhandsapi.azurewebsites.net/index.html" target="_blank"><strong>Unity Hands Project (In Update)</strong></a></p>
 
 ---
 
-
 <h3 align="center">Connect with me:</h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-7a9931229/)])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamHoang541)
+<p align="center">
+<a href="https://www.linkedin.com/in/huy-ho%C3%A0ng-l%C3%AA-7a9931229/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/williamHoang541" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
