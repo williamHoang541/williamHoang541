@@ -41,3 +41,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamHoang541&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+---
+
+<h3 align="center">GitHub Streak Stats:</h3>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=williamHoang541&theme=radical" alt="GitHub Streak Stats" />
+</p>
